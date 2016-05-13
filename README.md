@@ -31,3 +31,13 @@ Ersnt et al.'s work instruments program to record the values that variables take
 a variable has a constant value or takes on a small number of values; or that a variables value is bounded by some range, etc. Restated, they discover logical
 invariants over a set of program executions, where the types of logical invariants
 that can be identifed is another input to the analysis engine
+
+##### Value Profiling and Optimization
+Brad Calder, Peter Feller, and Alan Eustace
+http://www.jilp.org/vol1/v1paper2.pdf
+
+#### Dynamic Inference of Static Types for Ruby
+http://www.cs.umd.edu/~jfoster/papers/popl11.pdf
+
+#### Profile-Guided Static Typing for Dynamic Scripting Languages
+https://www.cs.umd.edu/projects/PL/druby/papers/druby-tr-4935.pdf
