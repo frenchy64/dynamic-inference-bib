@@ -41,3 +41,6 @@ http://www.cs.umd.edu/~jfoster/papers/popl11.pdf
 
 #### Profile-Guided Static Typing for Dynamic Scripting Languages
 https://www.cs.umd.edu/projects/PL/druby/papers/druby-tr-4935.pdf
+
+#### JSTrace: Run-time Type Discovery for JavaScript
+http://cs.brown.edu/research/plt/dl/flowtyping/v1/saftoiu-typediscovery-thesis.pdf
