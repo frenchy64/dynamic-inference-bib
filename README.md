@@ -44,3 +44,6 @@ https://www.cs.umd.edu/projects/PL/druby/papers/druby-tr-4935.pdf
 
 #### JSTrace: Run-time Type Discovery for JavaScript
 http://cs.brown.edu/research/plt/dl/flowtyping/v1/saftoiu-typediscovery-thesis.pdf
+
+#### TypeDevil: Dynamic Type Inconsistency Analysis for JavaScript
+http://www.cs.berkeley.edu/~ksen/papers/typedevil.pdf
