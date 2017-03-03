@@ -47,3 +47,7 @@ http://cs.brown.edu/research/plt/dl/flowtyping/v1/saftoiu-typediscovery-thesis.p
 
 #### TypeDevil: Dynamic Type Inconsistency Analysis for JavaScript
 http://www.cs.berkeley.edu/~ksen/papers/typedevil.pdf
+
+#### [Analyzing test completeness for dynamic languages](http://users-cs.au.dk/amoeller/papers/goodenough/paper.pdf) (ISSTA 2016)
+
+Adamsen et al. verify test suite completeness using a hybrid approach of lightweight dependency analysis, static type checking and dynamic instrumentation.
